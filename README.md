@@ -7,7 +7,7 @@ The program starts Monday, August 2, and lasts four weeks. It's designed for peo
 * Have not coded in Python much (or at all!) 
 *	Want to make the most of Kaggle, but aren't sure how.
 
-<img src="https://github.com/rojaAchary/30-Days-of-ML-Kaggle/blob/main/misc/30_Days_ML_Hero.png" width="800">
+<img src="https://github.com/rojaAchary/30-Days-of-ML-Kaggle/blob/main/misc/30_Days_ML_Hero.png" width="600">
 
 ## Program Highlights ✏
 
